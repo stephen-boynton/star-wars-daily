@@ -1,0 +1,39 @@
+.App {
+	margin: 10px;
+}
+
+.card {
+	margin: 5px;
+}
+
+.form {
+	background-color: white;
+	text-align: center;
+	padding: 50px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.pilot-form {
+	width: 40%;
+}
+
+.pilot-form button {
+	width: 30%;
+}
+
+.pilot {
+	margin: 20px;
+}
+
+.card {
+	flex-basis: 30%;
+}
+
+.vehicles {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
